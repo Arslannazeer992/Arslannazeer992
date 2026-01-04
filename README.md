@@ -14,7 +14,7 @@
 ## 🚀 About Me
 - 🎓 Computer Science student, focused on practical skills and real-world projects  
 - 💡 Interested in **Web Development**, **Python**, and **problem-solving**
-- ✅ Goal: Build a strong portfolio to secure admission and opportunities
+- ✅ Goal: Become professionaler Developer
 
 ---
 
